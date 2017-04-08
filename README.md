@@ -19,8 +19,14 @@ duplos** dentro do contexto é extremamente eficiente:
 - _Essa pessoal do sexo tal quer se exibir; Por que não posso ajudar ela divulgando no nosso meio?_
   - **Profissionais de T.I. falam de T.I. e sexualidade, independente do sexo, não é pertinente; é mais eficiente você procurar locais específicos para falar sorbe o tema, e manter esse ambiente inclusivo para todos os sexos**
 
+## Amostras de possíveis casos
 
+As amostras aqui servem exclusivamente como intúito de ver padrões de
+estratégia de enfrentamento (que dão certo, dão errado, ou as que dão certo
+_mas tem efeitos negativos implícitos_). Não há interesse em _expor_ pessoas,
+mas sim ver formas de que mesmo quando algo está acontecendo, qualquer pessoa
+possa ajudar profissionais colegas a entenderem o comportamento antissocial
+de forma compreensível, sem uso de padrões duplos e até mesmo evitando casos
+extremos, como banimento.
 
-<!--
-Estudo aplicado de mecanismos de enfrentamento (coping) para desestimular de forma educativa comportamento antissocial em interações entre profissionais de Tecnologia da Informação
--->
+[Amostras reais possíveis comportamentos antissociais](amostras/index.md)
