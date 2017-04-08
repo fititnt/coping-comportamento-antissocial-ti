@@ -11,7 +11,9 @@ sofrimento de outras.
 
 Este projeto é restrito a interações sociais entre **profissionais de Tecnologia
 da Informação**. Assume **premissas como a de que remover a percepção de padrões
-duplos** dentro do contexto é extremamente eficiente:
+duplos** dentro do contexto é extremamente eficiente.
+
+## Estratégias de coping sugeridas
 
 - _Por que não posso ridicularizar um aprendiz, se eu aprendi sendo ridicularizado?_
   - **Porque isso desestimula aprendizagem, e você mesmo teria aprendido mais rápido com incentivo construtivo**
@@ -19,7 +21,15 @@ duplos** dentro do contexto é extremamente eficiente:
 - _Essa pessoal do sexo tal quer se exibir; Por que não posso ajudar ela divulgando no nosso meio?_
   - **Profissionais de T.I. falam de T.I. e sexualidade, independente do sexo, não é pertinente; é mais eficiente você procurar locais específicos para falar sorbe o tema, e manter esse ambiente inclusivo para todos os sexos**
 
+_Este é um repositório recente, logo é esperado ter poucas sugestões práticas
+para uso imediato, porém [amostras](amostras/index.md) de casos reais são
+analizadas e as estratégias de coping serão testadas na prática para ver se
+são ou não eficientes._
+
 ## Amostras de possíveis casos
+
+- [Amostras reais possíveis comportamentos antissociais](amostras/index.md)
+- [Como obter amostras](como-obter-amostras.md)
 
 As amostras aqui servem exclusivamente como intúito de ver padrões de
 estratégia de enfrentamento (que dão certo, dão errado, ou as que dão certo
@@ -28,5 +38,3 @@ mas sim ver formas de que mesmo quando algo está acontecendo, qualquer pessoa
 possa ajudar profissionais colegas a entenderem o comportamento antissocial
 de forma compreensível, sem uso de padrões duplos e até mesmo evitando casos
 extremos, como banimento.
-
-[Amostras reais possíveis comportamentos antissociais](amostras/index.md)
