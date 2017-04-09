@@ -18,8 +18,12 @@ duplos** dentro do contexto é extremamente eficiente.
 - _Por que não posso ridicularizar um aprendiz, se eu aprendi sendo ridicularizado?_
   - **Porque isso desestimula aprendizagem, e você mesmo teria aprendido mais rápido com incentivo construtivo**
 - _Por que não posso compartilhar conteúdo sexualizado? Por que só reclamam do sexo tal, e não do outro?_
-- _Essa pessoal do sexo tal quer se exibir; Por que não posso ajudar ela divulgando no nosso meio?_
+- _Essa pessoa do sexo tal quer se exibir; Por que não posso ajudar ela divulgando no nosso meio?_
   - **Profissionais de T.I. falam de T.I. e sexualidade, independente do sexo, não é pertinente; é mais eficiente você procurar locais específicos para falar sorbe o tema, e manter esse ambiente inclusivo para todos os sexos**
+- _Esses angolanos* são folgados, não buscam no Google, querem te adicionar no WhatsApp/Facebook, etc_ (*: ou outro país além do Brasil e Portugal que fale português)
+  - **Assim como nas regiões pobres do Brasil, ou mesmo seu próprio celular, na Africa é comum operadoras de telefone fornecerem banca ilimitada apenas para certas aplicações, principalmente Facebook/WhatsApp, então é provável que tal pessoa não tenha opção pra aprender; leve em conta que o Brasil década e pouco atrás também não tinha bom acesso a internet, e muitos dos grandes profissionais que você conhece passaram por situações como o angolado que reclama**
+- _Esses angolados* escrevem tudo errado; deveria ter um lugar isolado pra eles aprenderem, aqui é so pra brasileiros_
+  - **A pessoa da qual reclama fala provavelmente no mínimo duas línguas; nas comunidades internacionais é comum haver respeito com pessoal que fala inglês não perfeito porque sabem desse fato; assumir que tais angolados*; o que seria dos desenvolvedores do nosso país se americanos ou inglêses resolvessem expulsar quem não escreve nativamente sua língua? E, mesmo que você fale bem inglês, lembre-se que muitas fontes de informação de T.I. só exisitiram porque não ouve esse tipo de preconceito, que tende a ser xenofobia**
 
 _Este é um repositório recente, logo é esperado ter poucas sugestões práticas
 para uso imediato, porém [amostras](amostras/index.md) de casos reais são
@@ -27,14 +31,9 @@ analizadas e as estratégias de coping serão testadas na prática para ver se
 são ou não eficientes._
 
 ## Amostras de possíveis casos
+Para serem incluídas neste repositório, todas as amostras **devem ser
+anonimizadas**, pois o objetivo aprender estratégias de coping para situações
+futuras e reduzir sensação de _perseguição_ aos profissionais que _erraram_.
 
-- [Amostras reais possíveis comportamentos antissociais](amostras/index.md)
+- [Amostras reais de possíveis comportamentos antissociais](amostras/index.md)
 - [Como obter amostras](como-obter-amostras.md)
-
-As amostras aqui servem exclusivamente como intúito de ver padrões de
-estratégia de enfrentamento (que dão certo, dão errado, ou as que dão certo
-_mas tem efeitos negativos implícitos_). Não há interesse em _expor_ pessoas,
-mas sim ver formas de que mesmo quando algo está acontecendo, qualquer pessoa
-possa ajudar profissionais colegas a entenderem o comportamento antissocial
-de forma compreensível, sem uso de padrões duplos e até mesmo evitando casos
-extremos, como banimento.

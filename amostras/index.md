@@ -1,7 +1,11 @@
-# Amostras reais possíveis comportamentos antissociais
-Para serem incluídas neste repositório, todas as amostras **devem ser
-anonimizadas**, pois o objetivo aprender estratégias de coping para situações
-futuras e reduzir sensação de _perseguição_ aos profissionais que _erraram_.
+# Amostras reais de possíveis comportamentos antissociais
+As amostras aqui servem exclusivamente como intúito de ver padrões de
+estratégia de enfrentamento (que dão certo, dão errado, ou as que dão certo
+_mas tem efeitos negativos implícitos_). Não há interesse em _expor_ pessoas,
+mas sim ver formas de que mesmo quando algo está acontecendo, qualquer pessoa
+possa ajudar profissionais colegas a entenderem o comportamento antissocial
+de forma compreensível, sem uso de padrões duplos e até mesmo evitando casos
+extremos, como banimento.
 
 Sabia [como obter amostras](como-obter-amostras.md).
 
