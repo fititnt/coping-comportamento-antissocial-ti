@@ -1,13 +1,13 @@
-# Coping para comportamento antissocial entre profissionais de T.I.
+# Coping para comportamentos antissociais entre profissionais de T.I.
 [Estratégias de coping, ou enfrentamento](https://pt.wikipedia.org/wiki/Mecanismos_de_enfrentamento)
 são esforços cognitivos e comportamentais para lidar com situações de dano, de
 ameaça ou de desafio quando não está disponível uma rotina ou uma resposta
 automática. Ter [comportamento antissocial](https://pt.wikipedia.org/wiki/Comportamento_antissocial),
 em algum momento **não** necessariamente implica em ter [transtorno de personalidade antissocial](https://pt.wikipedia.org/wiki/Transtorno_de_personalidade_antissocial),
-com frequência é [resultado de comportamento observado e copiado de outros](https://www.facebook.com/fititnt/posts/1408436005874543)
+com frequência é [resultado principalmente da cópia comportamento observado de outros](https://www.facebook.com/fititnt/posts/1408436005874543)
 e, diferente da [misantropia](https://pt.wikipedia.org/wiki/Misantropia), está
-relacionada a ignorar a possibilidade de estar afetando negativamente outras
-pessoas, por falta de [empatia](https://pt.wikipedia.org/wiki/Empatia) com o
+relacionada a ignorar, **mesmo que por falta de conhecimento**, a possibilidade
+de estar afetando negativamente outras pessoas, por falta de [empatia](https://pt.wikipedia.org/wiki/Empatia) com o
 sofrimento de outras.
 
 Este projeto é restrito a interações sociais entre **profissionais de Tecnologia
@@ -16,9 +16,11 @@ duplos** e de que **sugerir comportamentos que não apenas minimizem problemas,
 mas também NÃO cause prejuízo pessoal ao replicador**, é mais eficiente para
 re-educar e tornar qualquer pessoa que observa um potencial replicador.
 
-Esse projeto é baseado em observação de interações sociais entre profissionais
+O repositório é baseado na observação de interações sociais entre profissionais
 de T.I. e, tanto para identificação como para resolução, fortemente em [Teoria
 de Aprendizagem Social](https://en.wikipedia.org/wiki/Social_learning_theory).
+
+Participe da [discussão no fórum FrontendBR, issue #530](https://github.com/frontendbr/forum/issues/530).
 
 ## Estratégias de coping sugeridas
 
@@ -32,7 +34,7 @@ de Aprendizagem Social](https://en.wikipedia.org/wiki/Social_learning_theory).
   - **Este é um grupo de T.I.; Sua reclamação vale tanto pra um lado como para o outro; se alguma vez no passado desse grupo não reagiram assim, bem, as coisas muda, e você poderá reforçar essa minha/nossa condulta sem precisar de moderador lhe dizendo; quanto ao que o mundo está ou não, ou se você pode ou não dizer fora desse grupo, não importa, é mais eficiente você reclamar desse tema nos outros locais em que ocorre, não aqui**
 - _Esses angolanos* são folgados, não buscam no Google, querem te adicionar no WhatsApp/Facebook, etc_ (*: ou outro país além do Brasil e Portugal que fale português)
   - **Assim como nas regiões pobres do Brasil, ou mesmo seu próprio celular, na Africa é comum operadoras de telefone fornecerem banca ilimitada apenas para certas aplicações, principalmente Facebook/WhatsApp, então é provável que tal pessoa não tenha opção pra aprender; leve em conta que o Brasil década e pouco atrás também não tinha bom acesso a internet, e muitos dos grandes profissionais que você conhece passaram por situações como o angolado que reclama**
-- _Esses angolados* escrevem tudo errado; deveria ter um lugar isolado pra eles aprenderem, aqui é so pra brasileiros_
+- _Esses angolados* escrevem tudo errado; deveria ter um lugar isolado pra eles aprenderem, aqui é só pra brasileiros_
   - **A pessoa da qual reclama fala provavelmente no mínimo duas línguas; nas comunidades internacionais é comum haver respeito com pessoal que fala inglês não perfeito porque sabem desse fato; assumir que tais angolados\*; o que seria dos desenvolvedores do nosso país se americanos ou inglêses resolvessem expulsar quem não escreve nativamente sua língua? E, mesmo que você fale bem inglês, lembre-se que muitas fontes de informação de T.I. só exisitiram porque não ouve esse tipo de preconceito, que tende a ser xenofobia**
 
 _Este é um repositório recente, logo é esperado ter poucas sugestões práticas
